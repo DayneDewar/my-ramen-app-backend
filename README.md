@@ -1,9 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an API i am creating using Ruby on Rails for my ramen app frontend that I am making with React Native/Expo
 
-Things you may want to cover:
 
 * Ruby version
 
@@ -21,7 +19,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
 # ramen-app-backend
 # ramen-app-backend
 # ramen-app-backend
