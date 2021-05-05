@@ -1,0 +1,6 @@
+class VisitSerializer < ActiveModel::Serializer
+  attributes :id, :user_id
+
+  belongs_to :store  
+
+end
